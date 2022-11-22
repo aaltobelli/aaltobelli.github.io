@@ -1,0 +1,38 @@
+body {
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 100%;
+  }
+
+h1{
+    font-size: 250%;
+}
+#links {
+    text-align: end;
+}
+#search {
+    text-align: center;
+}
+
+.rounded input {
+    border-radius: 5px;
+}
+
+#advform{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#advform input{
+    margin: 20px;
+    padding: 20px;
+    width: 20px;
+}
+
+#bttn{
+    background-color:royalblue;
+    color: white;
+}
+
+table #customal{
+    text-align: right;
+}
